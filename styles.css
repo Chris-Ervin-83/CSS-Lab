@@ -30,4 +30,80 @@ span{
    margin: 20px;
    border-color: black;
    border-radius: 10px; 
-}   
+   display: block;
+   width: 30em;
+} 
+
+#box-1{
+    background-color: rgb(23, 104, 50);
+}
+
+#box-2{
+    background-color: rgb(165, 116, 42);
+    
+}
+
+#box-3{
+    background-color: rgb(112, 49, 62);
+}
+
+#box-4{
+    background-color: rgb(43, 128, 85);
+}
+
+.images{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 7em;
+}
+
+h1{
+    color: darksalmon;
+
+}
+
+.original{
+    color: deeppink;
+}
+
+.additional{
+    color: dodgerblue;
+}
+
+#show-1{
+    color: firebrick;    
+}
+
+#show-2{
+    color: forestgreen;
+}
+
+#show-3{
+    color: rgb(47, 255, 134);
+}
+
+#show-4{
+    color: orangered;
+}
+
+#show-5{
+    color: plum;
+}
+
+ul{
+    color: sienna;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;  
+}
+
+.star{
+    color: turquoise;
+}
+
+#wars{
+    color: rosybrown;
+}
